@@ -34,7 +34,7 @@ Someday, I will become a professional backend developer and contribute to this e
    <td>
  <h3 align="center">🖥️ My Git Stats </h3>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ironpack95&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ironpack95&hide=contribs,prs&hide_title=true&include_all_commits=true&theme=vision-friendly-dark&border_radius=10&count_private=true&show_icons=true)
   </td>
   
   <td>
